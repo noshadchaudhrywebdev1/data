@@ -1,4 +1,4 @@
-===
+```===
 LearningPlatform: "LinkedIn"
 LearningPlatformURL: "https://www.linkedin.com/learning"
 
@@ -16,7 +16,7 @@ FileNameFNXAfter: "Learning-Graphic-Design-Things-Every-Designer-Should-Know-201
 
 Categories: ""
 Tags: "Graphic design, Design, Designer, must know"
-===
+===```
 -----------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------
