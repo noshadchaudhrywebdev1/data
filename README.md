@@ -57,22 +57,22 @@ U could say the second design looks obvously less cluttered but mainly "more int
 
 - Before
   ```
-  > A Collection in Blue **Visions in Ice**  
-  > Introducing **Michael Carlucci**  
-  > Review **The amazing Nikon D3S digital SLR**
+  A Collection in Blue **Visions in Ice**  
+  Introducing **Michael Carlucci**  
+  Review **The amazing Nikon D3S digital SLR**
   ```
 - After (Easier to scan but not visually interesting)
   ```
-      A Collection in Blue Visions in Ice
-      Introducing          Michael Carlucci
-      Review               The amazing Nikon D3S digital SLR
+  A Collection in Blue Visions in Ice
+  Introducing          Michael Carlucci
+  Review               The amazing Nikon D3S digital SLR
   ```
 
-- Better (Visually interesting "How done in movies")
+- Better (Visually interesting > "How done in movies"  
   ```
-      A Collection in Blue Visions in Ice
-               Introducing Michael Carlucci
-                    Review The amazing Nikon D3S digital SLR
+  A Collection in Blue Visions in Ice
+           Introducing Michael Carlucci
+                Review The amazing Nikon D3S digital SLR
   ```
 
 
