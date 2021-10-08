@@ -23,23 +23,30 @@ Tags: "Graphic design, Design, Designer, must know"
 
 
 
-#Learning Graphic Design Things Every Designer Should Know
+# =====================================================================================================
+# Learning Graphic Design Things Every Designer Should Know
+# =====================================================================================================
+
 ## My Two Cents  
 Some of these are just problem solving / basic common sense ; of course experience.
 
 
 ## Know your story: Part 1  
 
+
 -----------------------------------------------------------------------------------------------------
 ## Know your story: Part 2  
 
+
 -----------------------------------------------------------------------------------------------------
 ## Keep it simple: Part 1  
+
 
 -----------------------------------------------------------------------------------------------------
 ## Keep it simple: Part 2  
 Have pic of NYC at night landscape or a whole kitchen but need img 4 mobile?
 Use pic of Lady Liberty, 1 item in kitchen.
+
 
 -----------------------------------------------------------------------------------------------------
 ## Keep it simple: Part 3  
@@ -69,6 +76,7 @@ U could say the second design looks obvously less cluttered but mainly "more int
                Introducing Michael Carlucci
                     Review The amazing Nikon D3S digital SLR
   ```
+
 
 -----------------------------------------------------------------------------------------------------
 ## Have a focal point  
@@ -109,12 +117,15 @@ U could say the second design looks obvously less cluttered but mainly "more int
    Title bigger then "subtitle" bigger then author.
    Lizard lifted from his environment. His tail wags in the margins.
 
+     
 -----------------------------------------------------------------------------------------------------
 ## Get extreme  
 
+     
 ---------------------------------------------------------------------------------------------
 ## Another kind of focal point, another way of getting simple is to do what I call Get Extreme
 
+     
 -----------------------------------------------------------------------------------------------------
 ## Put white to work  
 
