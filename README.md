@@ -1,4 +1,5 @@
-```===
+```yml
+===
 LearningPlatform: "LinkedIn"
 LearningPlatformURL: "https://www.linkedin.com/learning"
 
@@ -24,26 +25,26 @@ Tags: "Graphic design, Design, Designer, must know"
 =====================================================================================================
 Learning Graphic Design Things Every Designer Should Know
 =====================================================================================================
-##My Two Cents  
+## My Two Cents  
 Some of these are just problem solving / basic common sense ; of course experience.
 -----------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------------
-##Know your story: Part 1  
+## Know your story: Part 1  
 
 -----------------------------------------------------------------------------------------------------
-##Know your story: Part 2  
+## Know your story: Part 2  
 
 -----------------------------------------------------------------------------------------------------
-##Keep it simple: Part 1  
+## Keep it simple: Part 1  
 
 -----------------------------------------------------------------------------------------------------
-##Keep it simple: Part 2  
+## Keep it simple: Part 2  
 Have pic of NYC at night landscape or a whole kitchen but need img 4 mobile?
 Use pic of Lady Liberty, 1 item in kitchen.
 
 -----------------------------------------------------------------------------------------------------
-##Keep it simple: Part 3  
+## Keep it simple: Part 3  
 Nameplate, date folio, headlines, bg, img.
 Nameplate is set in Helvetica Neue Light; its roundness matches the graphic.
 Date folio, and headlines will be in the same font; 1 part of headline bold. Simple.
@@ -72,8 +73,8 @@ U could say the second design looks obvously less cluttered but mainly "more int
   ```
 
 -----------------------------------------------------------------------------------------------------
-##Have a focal point  
-###Another way to keep things simple is to make sure your design has a Focal Point.##
+## Have a focal point  
+### Another way to keep things simple is to make sure your design has a Focal Point.##
 1. Apples
    a. **Descr:** all green apples
    b. **Solution:** 1 red one thrown into mix
@@ -111,19 +112,19 @@ U could say the second design looks obvously less cluttered but mainly "more int
    Lizard lifted from his environment. His tail wags in the margins.
 
 -----------------------------------------------------------------------------------------------------
-##Get extreme  
+## Get extreme  
 
 ---------------------------------------------------------------------------------------------
-##Another kind of focal point, another way of getting simple is to do what I call Get Extreme
+## Another kind of focal point, another way of getting simple is to do what I call Get Extreme
 
 -----------------------------------------------------------------------------------------------------
-##Put white to work  
+## Put white to work  
 
 -----------------------------------------------------------------------------------------------------
-##Unblock it  
+## Unblock it  
 
 -----------------------------------------------------------------------------------------------------
-##Set type boldly  
+## Set type boldly  
 
 -----------------------------------------------------------------------------------------------------
-##Use beautiful color  
+## Use beautiful color  
