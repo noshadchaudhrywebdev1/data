@@ -23,7 +23,8 @@ Tags: "Graphic design, Design, Designer, must know"
 
 
 
-# Learning Graphic Design Things Every Designer Should Know  
+Learning Graphic Design Things Every Designer Should Know
+################################################################################
 ## My Two Cents  
 Some of these are just problem solving / basic common sense ; of course experience.
 -----------------------------------------------------------------------------------------------------
